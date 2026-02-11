@@ -181,4 +181,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-For more details, see the [GitHub Issues](https://github.com/firefly-oss/firefly-lang/issues).
+For more details, see the [GitHub Issues](https://github.com/firefly-research/firefly-lang/issues).

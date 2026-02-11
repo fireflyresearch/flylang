@@ -56,7 +56,7 @@ Quick file creation with 8 built-in templates:
 5. Restart IntelliJ IDEA
 
 ### Manual Installation
-1. Download the latest plugin ZIP from [GitHub Releases](https://github.com/firefly-oss/firefly-lang/releases)
+1. Download the latest plugin ZIP from [GitHub Releases](https://github.com/firefly-research/firefly-lang/releases)
 2. In IntelliJ IDEA, go to **Settings/Preferences** → **Plugins**
 3. Click the gear icon ⚙️ → **Install Plugin from Disk...**
 4. Select the downloaded ZIP file
@@ -259,7 +259,7 @@ The plugin ZIP will be in `build/distributions/`.
 
 We welcome contributions! To contribute:
 
-1. Fork the [repository](https://github.com/firefly-oss/firefly-lang)
+1. Fork the [repository](https://github.com/firefly-research/firefly-lang)
 2. Create a feature branch
 3. Make your changes
 4. Add tests
@@ -267,8 +267,8 @@ We welcome contributions! To contribute:
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/firefly-oss/firefly-lang/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/firefly-oss/firefly-lang/discussions)
+- **Issues**: [GitHub Issues](https://github.com/firefly-research/firefly-lang/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/firefly-research/firefly-lang/discussions)
 - **Documentation**: [Official Docs](https://docs.fireflyframework.com/flylang)
 
 ## License

@@ -74,14 +74,14 @@ Flylang delivers:
 
 ```bash
 # Option 1: Quick install from GitHub (recommended)
-curl -fsSL https://raw.githubusercontent.com/firefly-oss/firefly-lang/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/firefly-research/firefly-lang/main/scripts/install.sh | bash
 
 # Option 2: Install to custom location (e.g., user home)
-curl -fsSL https://raw.githubusercontent.com/firefly-oss/firefly-lang/main/scripts/install.sh | bash -s -- --prefix "$HOME/.local"
+curl -fsSL https://raw.githubusercontent.com/firefly-research/firefly-lang/main/scripts/install.sh | bash -s -- --prefix "$HOME/.local"
 export PATH="$HOME/.local/bin:$PATH"
 
 # Option 3: Build from source
-git clone https://github.com/firefly-oss/firefly-lang.git
+git clone https://github.com/firefly-research/firefly-lang.git
 cd firefly-lang
 mvn clean install -DskipTests
 bash scripts/install.sh --from-source --prefix "$HOME/.local"
@@ -393,7 +393,7 @@ fly run examples/<example-name>
 - 🔄 Native compilation via GraalVM
 - 🔄 IDE plugin enhancements (refactoring, debugging)
 
-📌 See [GitHub Issues](https://github.com/firefly-oss/firefly-lang/issues) for details.
+📌 See [GitHub Issues](https://github.com/firefly-research/firefly-lang/issues) for details.
 
 ---
 
@@ -401,7 +401,7 @@ fly run examples/<example-name>
 
 We welcome contributions! Here's how to get started:
 
-1. **Report bugs or request features:** Open a [GitHub Issue](https://github.com/firefly-oss/firefly-lang/issues)
+1. **Report bugs or request features:** Open a [GitHub Issue](https://github.com/firefly-research/firefly-lang/issues)
 2. **Submit improvements:** Fork, create a branch, submit a PR
 3. **Discuss major changes:** Open a discussion before large refactors
 
@@ -425,5 +425,5 @@ See [LICENSE](LICENSE) for details.
   <a href="docs/GETTING_STARTED.md">Get Started</a> ·
   <a href="docs/LANGUAGE_GUIDE.md">Language Guide</a> ·
   <a href="docs/EXAMPLES.md">Examples</a> ·
-  <a href="https://github.com/firefly-oss/firefly-lang">GitHub</a>
+  <a href="https://github.com/firefly-research/firefly-lang">GitHub</a>
 </p>

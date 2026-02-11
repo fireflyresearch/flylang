@@ -8,7 +8,7 @@ set -euo pipefail
 PREFIX="/usr/local"
 INSTALL_BIN=""
 INSTALL_LIB=""
-REPO="https://github.com/firefly-oss/firefly-lang.git"
+REPO="https://github.com/firefly-research/firefly-lang.git"
 BRANCH="main"
 CLONE_DIR=""
 NONINTERACTIVE="0"

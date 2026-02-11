@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.firefly.intellij</id>
     <name>Firefly Language Support</name>
-    <vendor email="support@firefly-lang.org" url="https://github.com/firefly-oss/firefly-lang">Firefly OSS</vendor>
+    <vendor email="support@firefly-lang.org" url="https://github.com/firefly-research/firefly-lang">Firefly OSS</vendor>
 
     <description><![CDATA[
     <h1>Firefly Language Support for IntelliJ IDEA</h1>
@@ -27,7 +27,7 @@
         <li>Start coding in Firefly!</li>
     </ol>
     
-    <p>For more information, visit the <a href="https://github.com/firefly-oss/firefly-lang">Firefly GitHub repository</a>.</p>
+    <p>For more information, visit the <a href="https://github.com/firefly-research/firefly-lang">Firefly GitHub repository</a>.</p>
     ]]></description>
 
     <change-notes><![CDATA[

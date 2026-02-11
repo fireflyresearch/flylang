@@ -232,7 +232,7 @@ $(bold "What was removed:")
   ✓ Flylang Launcher   - ${LAUNCHER}
 
 $(bold "To reinstall Flylang:")
-  curl -fsSL https://raw.githubusercontent.com/firefly-oss/firefly-lang/main/scripts/install.sh | bash
+  curl -fsSL https://raw.githubusercontent.com/firefly-research/firefly-lang/main/scripts/install.sh | bash
 
   Or from local sources:
   bash scripts/install.sh --from-source
