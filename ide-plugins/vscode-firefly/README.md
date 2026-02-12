@@ -62,7 +62,7 @@ Pre-built code snippets for common patterns:
 4. Click **Install**
 
 ### From VSIX File
-1. Download the `.vsix` file from [GitHub Releases](https://github.com/firefly-research/firefly-lang/releases)
+1. Download the `.vsix` file from [GitHub Releases](https://github.com/fireflyresearch/firefly-lang/releases)
 2. In VS Code, press `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS)
 3. Type **"Extensions: Install from VSIX..."**
 4. Select the downloaded `.vsix` file
@@ -350,7 +350,7 @@ npm test
 
 We welcome contributions!
 
-1. Fork the [repository](https://github.com/firefly-research/firefly-lang)
+1. Fork the [repository](https://github.com/fireflyresearch/firefly-lang)
 2. Create a feature branch
 3. Make your changes
 4. Add tests if applicable
@@ -365,8 +365,8 @@ We welcome contributions!
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/firefly-research/firefly-lang/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/firefly-research/firefly-lang/discussions)
+- **Issues**: [GitHub Issues](https://github.com/fireflyresearch/firefly-lang/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/fireflyresearch/firefly-lang/discussions)
 - **Documentation**: [Official Docs](https://docs.fireflyframework.com/flylang)
 - **Stack Overflow**: Tag with `flylang`
 

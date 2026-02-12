@@ -3,7 +3,7 @@
   "displayName": "Firefly Language Support",
   "description": "Language support for Firefly programming language (.fly files)",
   "version": "1.0-Alpha",
-  "publisher": "firefly-research",
+  "publisher": "fireflyresearch",
   "icon": "images/icon.svg",
   "engines": {
     "vscode": "^1.75.0"
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/firefly-research/firefly-lang"
+    "url": "https://github.com/fireflyresearch/firefly-lang"
   },
   "main": "./out/extension.js",
   "activationEvents": [
